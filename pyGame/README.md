@@ -20,7 +20,7 @@ Health becomes 0 before 90 secs -> Loss Game
 
 
 
-![pygame1](.\screenshots\pygame1.png)
+![pygame1](./screenshots/pygame1.png)
 
-![pygame2](.\screenshots\pygame2.png)
+![pygame2](./screenshots/pygame2.png)
 
